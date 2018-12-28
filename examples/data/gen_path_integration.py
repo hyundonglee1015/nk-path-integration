@@ -15,7 +15,7 @@ matplotlib.use('agg')
 import pylab as plt
 
 from funcs import *
-from path_integration import trials
+from pi import trials
 
 def create_lpu_graph():
 
